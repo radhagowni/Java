@@ -1,0 +1,9 @@
+* Int datatype occupies 4 bytes, has a minimum value of -2 power 31 and a maximum value of (2 power 31) -1.
+* overflow occurs when we assign such a value to a variable which is more than the maximum permissible value.
+* underflow occurs when we assign such a value to a variable which is less than the minimum permissible value.
+* Short has a minimum value of -32768 and a maximum value of 32767.
+* Long has a minimum value of -2 power 63 and maximum value of (2 power 63)-1.
+* The range of Boolean datatype is not applicable.
+* Default value of Boolean datatype is "false".
+* When we give f or L as suffix to the float and double, they will not be explicitly.
+* The size of void datatype is 0 bytes.
