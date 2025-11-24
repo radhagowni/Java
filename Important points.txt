@@ -1,0 +1,6 @@
+public static synchronized final strictfp void main(String... args){}  --> valid
+In the above statement, static word should not be missed and return type should void but not int.
+
+Example: byte a=5;
+a+=2;  // a=byte(a+2) in this line typecasting is performed internally
+a=a+3; // returns the value of type max(byte,int) which is of int type, a+3 is evaluated first
