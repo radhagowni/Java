@@ -1,0 +1,10 @@
+Value types:
+
+* A Value type holds the data within its own memory allocation.
+* A Reference type contains a pointer to another memory location that holds the real data.
+
+* A data type is a value type if it holds a data value within its own memory space.
+* It means the variables of these data types directly contain values.
+
+* Unlike value types,a Reference type doesn't store its value directly.Instead, it stores the address where the value is being stored.
+* In other words, a Reference type contains a pointer to another memory location that holds the data.
