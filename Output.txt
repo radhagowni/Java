@@ -1,0 +1,11 @@
+System.out.println(); --> A statement in Java used to display output on the console.
+ * It prints the argument passed to it and then moves the cursor to the next line.
+
+System --> A final class in the java.lang package.
+ * It provides access to system-level resouces, including standard input,output and error streams.
+
+ out ---> This is a static member field of the System class and is an instance of the PrintStream class.
+ * It represents the standard output stream, which typically directs output to the console.
+
+ println --> Method of the PrintStream class.
+  * It takes an argument (a String, number,or other data type) and prints it to the out stream, followed by a newline character.
