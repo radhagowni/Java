@@ -1,7 +1,7 @@
 * If a class has multiple methods having same name but different in parameters is known as Method Overloading.
 Advantages:
 
-1) Increases readability
+1) Increases readability.
 2) Different ways to overload the method.
 3) Code reusability.
 
