@@ -12,7 +12,7 @@ class Main
     public static void PrintnumberInword(int n)
     {
         int num=n;
-        switch(n){
+        switch(n) {
             case 0:
                 System.out.println("Zero");
                 break;
